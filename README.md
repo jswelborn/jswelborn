@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true" width="50">
 <img src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4" width="40">
 <img src="https://camo.githubusercontent.com/00518a2218fb06231c6f2064f1904d68a42f0dceba8985231a70efec56127933/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" width="40">
-
